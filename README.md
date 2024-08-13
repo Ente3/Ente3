@@ -15,4 +15,4 @@
 
 I hope you enjoy exploring my projects! 😊
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ente3&theme=black-ice&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![wakatime](https://wakatime.com/badge/user/018d946b-50de-451f-9d35-a07dcc03fb75.svg)](https://wakatime.com/@018d946b-50de-451f-9d35-a07dcc03fb75)
