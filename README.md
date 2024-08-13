@@ -14,3 +14,5 @@
 - 💼 You can also connect with me on LinkedIn: [Lajos Grellmann](https://www.linkedin.com/in/lajos-grellmann/).
 
 I hope you enjoy exploring my projects! 😊
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ente3&theme=black-ice&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
