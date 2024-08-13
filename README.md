@@ -6,7 +6,7 @@
 
 ### My Projects
 - Here are some of the projects I'm proud to have worked on:
-    - [Minecraft Inventory Sorter Mod](https://baxnetzwerk.de)
+    - [BaxNetzwerk.de](https://baxnetzwerk.de)
     - [Inconnu Development](https://builtbybit.com/creators/inconnu.261540)
 
 ### Contact
