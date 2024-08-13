@@ -1,6 +1,6 @@
 ### About Me
 - My name is [Lajos](https://lajos.grellmann.eu), and I am known online as Ente_3.
-- 🚀 I serve as the Administrator, Leader, and Developer of the BaxNetwork (https://baxnetzwerk.de).
+- 🚀 I serve as the Administrator, Leader, and Developer of the [BaxNetwork](https://baxnetzwerk.de).
 - 🎓 Currently I am pursuing my training as an IT Specialist in System Integration, with an expected completion by early 2025.
 - I am proficient in several programming languages, including Java, Python, JavaScript, PHP, and C#.
 
