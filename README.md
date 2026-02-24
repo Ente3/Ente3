@@ -1,7 +1,7 @@
 ### About Me
 - My name is [Lajos](https://lajos.grellmann.eu), and I am known online as Ente_3.
 - 🚀 I serve as the Administrator, Leader, and Developer of the [BaxNetwork](https://baxnetzwerk.de). 
-- 💼 Completed training and working as a System Engineer Linux at Cambio CSS.
+- 💼 Working as a System Engineer Linux at Cambio CSS.
 - 💻 Passionate about infrastructure, system automation, and network technologies.
 - I am proficient in several programming languages, including Java, Python, JavaScript, PHP, and C#.
 
